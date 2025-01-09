@@ -31,18 +31,18 @@ To improve the accuracy of demand and sales forecasts using statistical modeling
 
 ## Results and Key Findings
 
-![Model Prediction Results](Quarter 1 and 2)](https://github.com/Raghav170699/Sales-Demand-Forecasting/blob/main/Results/Model_Prediction_Results.png)
+![Model Prediction Results(Quarter 1 and 2)](https://github.com/Raghav170699/Sales-Demand-Forecasting/blob/main/Results/Model_Prediction_Results.png)
 
 ### Demand Forecasting
 For demand forecasting, error metrics such as MAE, MSE, RMSE, and MAPE were calculated to evaluate model performance across two quarters. Results varied by product, reflecting the unique challenges in forecasting demand for different categories.
 
-![Model Performance - Demand Forecasting](Quarter 1 and 2)](https://github.com/Raghav170699/Sales-Demand-Forecasting/blob/main/Results/Demand_Forecast_Model.png)
+![Model Performance - Demand Forecasting(Quarter 1 and 2)](https://github.com/Raghav170699/Sales-Demand-Forecasting/blob/main/Results/Demand_Forecast_Model.png)
 
 
 ### Sales Forecasting
 Sales forecasts were generated with comparable evaluation metrics for two quarters. The performance highlighted the ability of the models to capture trends and seasonality effectively.
 
-![Model Performance - Sales Forecasting](Quarter 1 and 2)](https://github.com/Raghav170699/Sales-Demand-Forecasting/blob/main/Results/Model_Performance_Sales_Forecast.png)
+![Model Performance - Sales Forecasting(Quarter 1 and 2)](https://github.com/Raghav170699/Sales-Demand-Forecasting/blob/main/Results/Model_Performance_Sales_Forecast.png)
 
 
 ---
